@@ -8,4 +8,3 @@ This project contains a KiCad schematic and layout for an **Actuonix PQ12-P** br
 
 ## 3D Render
 ![3D render of PQ12-P Breakout Board](./images/pq12-p-breakout-board.png)
-
