@@ -1,6 +1,6 @@
-# 5-pin Ribbon (FFC) Breakout
+# PQ12-P Breakout Board
 
-This project contains a KiCad schematic and layout for a 5-pin ribbon (flat-flex cable) breakout board.
+This project contains a KiCad schematic and layout for an **Actuonix PQ12-P** breakout board.
 
-This breakout board is intended to be used with:
-- Actuonix PQ12-P Micro Linear Actuator
+![3D render of PQ12-P Breakout Board](./images/pq12-p-breakout-board.png)
+
